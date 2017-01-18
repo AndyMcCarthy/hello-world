@@ -1,3 +1,3 @@
 # hello-world
-the basics
+the basics/n
 This is to learn the basics of commits in github
